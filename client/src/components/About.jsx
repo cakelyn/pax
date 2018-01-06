@@ -114,18 +114,23 @@ width: '150px', height: '150px', padding: '0', margin: '0 auto',
         </div>
 
         <h2 className="center-text padTop">Tech Stack</h2>
+        <p className="center-text">
+          <a href="https://github.com/pax-atlantica/pax">Pax-Atlantica</a><br />
+          <a href="https://github.com/pax-atlantica/pax-ci">Pax-CI</a>
+        </p>
         <div className="row">
           <img alt="React" src="../../assets/icon_react.png" />
           <img alt="Redux" src="../../assets/icon_redux.png" />
           <img alt="Nodejs" src="../../assets/icon_node.png" />
           <img alt="PostgreSQL" src="../../assets/icon_postgresql.png" />
-          <img alt="Amazaon Web Services" src="../../assets/icon_aws.png" />
+          <img alt="Amazon Web Services" src="../../assets/icon_aws.png" />
           <img alt="IBM Watson" src="../../assets/icon_ibmwatson.png" />
           <img alt="Aylien" src="../../assets/icon_aylien.png" />
           <img alt="Webpack" src="../../assets/icon_webpack.png" />
           <img alt="Material UI" src="../../assets/icon_materialui.png" />
           <img alt="D3" src="../../assets/icon_d3.png" />
           <img alt="Babel" src="../../assets/icon_babel.png" />
+          <img alt="Linux Shell Script" src="../../assets/icon_bash.png" />
         </div>
       </div>
     );
